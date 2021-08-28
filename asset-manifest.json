@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/arong_movie_app/static/css/main.422a5d08.chunk.css",
+    "main.js": "/arong_movie_app/static/js/main.19361f73.chunk.js",
+    "main.js.map": "/arong_movie_app/static/js/main.19361f73.chunk.js.map",
+    "runtime-main.js": "/arong_movie_app/static/js/runtime-main.0e11ea77.js",
+    "runtime-main.js.map": "/arong_movie_app/static/js/runtime-main.0e11ea77.js.map",
+    "static/js/2.0e870eeb.chunk.js": "/arong_movie_app/static/js/2.0e870eeb.chunk.js",
+    "static/js/2.0e870eeb.chunk.js.map": "/arong_movie_app/static/js/2.0e870eeb.chunk.js.map",
+    "index.html": "/arong_movie_app/index.html",
+    "static/css/main.422a5d08.chunk.css.map": "/arong_movie_app/static/css/main.422a5d08.chunk.css.map",
+    "static/js/2.0e870eeb.chunk.js.LICENSE.txt": "/arong_movie_app/static/js/2.0e870eeb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e11ea77.js",
+    "static/js/2.0e870eeb.chunk.js",
+    "static/css/main.422a5d08.chunk.css",
+    "static/js/main.19361f73.chunk.js"
+  ]
+}
